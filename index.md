@@ -1,5 +1,5 @@
-## Welcome to zafreen's profile
-### Markdown
+# Welcome to zafreen's profile
+### A Little about me
 
 I am a trainee software developer for Leeds City Council and previously I was a Computer Science teacher at a High School. 
 
