@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-### A Little about me
+### A little bit about me
 
 I am a trainee Software Developer for Leeds City Council and previously I was a Computer Science teacher at a High School. 
 
